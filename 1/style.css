@@ -1,0 +1,29 @@
+/* THIS IS MY CSS EXAMPLE */
+
+body {
+    background-color: cadetblue;
+}
+
+div {
+    font-size: 24px;
+}
+
+#intro {
+    background-color: white;
+}
+
+.numbers {
+    background-color: lightpink;
+    border: 2px dotted darkgrey;
+}
+
+#numberOne {
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+}
+
+/* div:first-child {
+    background-color: green;
+} */
+
